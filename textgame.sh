@@ -10,3 +10,4 @@ echo "1. Go outside"
 echo "2. Remember calm inside"
 echo "3. Call the cops"
 read user_action
+
